@@ -1,0 +1,61 @@
+/* comments go here color: rgb(255,0,0)*/
+
+.fancy{color:#009900;}
+
+.roundbox{
+	background-color:#234589;
+	padding: 30px;
+	border: 90px;
+	border-radius: 25px;
+	color:#ffffff;
+	width: 220px;
+}
+a{
+	color:#ffff00;
+	text-decoration: none;
+}
+p, h1, h2, h3, ol, ul, a{
+	font-family: 'Playfair Display', serif;
+	}
+.relative {
+	margin-top:30px;
+	position:relative;
+	width: 400px;
+	height: 200px;
+	border: 3px solid #457983;
+	float: right;
+}	
+
+.fixed {
+	position: fixed;
+	bottom: 50px;
+	right: 50px;
+	width: 300px;
+	border: 3px solid #457983;
+}
+.marginpadding{
+	background-color: blue;
+}
+
+a:link {color: green;}
+a:visited {color: white;}
+a:hover {color: pink;}
+a:active {color: yellow;}
+
+ul{
+	background-color: black;
+	list-style-type: none;
+	width:100%;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: pink;
+	padding: 24px 85px;
+	text-align: center;
+}
+
